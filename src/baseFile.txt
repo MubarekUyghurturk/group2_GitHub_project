@@ -4,7 +4,3 @@ Maybe you can not see this text
 
 I can see this, no worries
 
-Hello! Emil is here ! It's time to start a regression test :)
-Hi, practicing on Git is fun
-
-//  Hi Emil, I see you !!
