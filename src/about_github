@@ -12,3 +12,7 @@ in IntelliJ we updated, after updating we saw all the changes and now we see the
 right and checkout to the develop branch
 create a new personal branch from the develop branch
 
+added some changes
+commit and pushed to your origin branch
+pull request to merge our changes on our origin branch to the develop branch
+assigned a reviewer
